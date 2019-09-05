@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New page C
+=======
+New page D
+>>>>>>> feature-page-d
